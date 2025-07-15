@@ -1,2 +1,0 @@
-
-                df_bolsa_familia = df

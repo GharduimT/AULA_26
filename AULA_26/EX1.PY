@@ -26,7 +26,6 @@ try:
     #string Cache
     with pl.StringCache():
 
-
         for arquivo in lista_arquivos:
             print(f'Processando arquivo {arquivo}...')
 
